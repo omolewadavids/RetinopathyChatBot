@@ -23,19 +23,19 @@ The objective of this project is to make information and diagnosis of Diabetic R
 
 ## Obtaining the Datasets
 
-Classification Images: The scanned images originates from [2015 Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
-The data originates from a [2015 Kaggle competition](https://www.kaggle.com/c/diabetic-retinopathy-detection). However, is an atypical Kaggle dataset. In most Kaggle competitions, the data has already been cleaned, giving the data scientist very little to preprocess. With this dataset, this isn't the case.
+Classification Images: The scanned images originates from [Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
+Corpus Dataset: Created the corpus by web-scraping [MedicineNet](https://www.medicinenet.com).
 
-The training data is comprised of 35,126 images, which are augmented during preprocessing.
-
-### Prerequisites
+### Installation
 
 Install:
 
 * [Anaconda](https://www.continuum.io/downloads)
 * [Python (Minimum 3)](https://www.continuum.io/blog/developer-blog/python-3-support-anaconda)
-* [pandas](http://pandas.pydata.org/)
-* [Seaborn](https://seaborn.pydata.org/)
+* [Keras for Model deployment](https://pypi.org/project/Keras/)
+* [Seaborn for visualization](https://seaborn.pydata.org/)
+* [OpenCV for cleaning the images](https://pypi.org/project/opencv-python/)
+* [anvil for web deployment](https://anvil.works)
 
 ## Loading and Preprocessing
 
