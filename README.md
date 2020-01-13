@@ -51,5 +51,8 @@ The webapp is hosted on anvil.works **[retinopathyBOT](https://retinopathyBOT.an
 
 ## Authors
 
-* **[Omolewa Davids](https://www.omolewadavids.com)**
+**Omolewa Davids**
+
+* **[website](https://www.omolewadavids.com)**
+* **[LinkedIn](https://www.linkedin.com/in/omolewa-davids)**
 
