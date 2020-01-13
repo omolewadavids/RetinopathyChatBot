@@ -23,8 +23,8 @@ The objective of this project is to make information and diagnosis of Diabetic R
 
 ## Obtaining the Datasets
 
-Classification Images: The scanned images originates from [Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
-Corpus Dataset: Created the corpus by web-scraping [MedicineNet](https://www.medicinenet.com).
+* Classification Images: The scanned images originates from [Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
+* Corpus Dataset: Created the corpus by web-scraping [MedicineNet](https://www.medicinenet.com).
 
 ### Installation
 
@@ -39,14 +39,10 @@ Install:
 
 ## Loading and Preprocessing
 
-The preprocessing pipeline is the following:
-
-### Images were downloaded from Kaggle
-Google Colab was used as a platform for this dataset.
-
+### The NLP was processed on the Google Colab while the Image classification was processed on my personal machine
 
 ### Resize All Images
-The given images were mostly very large. ~2000 by ~2000. So to keep things unifrom all images were scaled down to 512 by 512.
+The images were of different sizes. I created Height and width columns for each images and resized the images 
 
 ### Checking Blurness of Images
 
