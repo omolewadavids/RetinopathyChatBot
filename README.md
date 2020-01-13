@@ -46,7 +46,7 @@ After trying different method to train the classification model, ResNet50 was us
 
 
 ## Web Deployment
-The webapp is hosted on anvil.works **[retinopathyBOT](https://retinopathyBOT.anvil.app)**
+The webapp is hosted on anvil.works **[retinopathyBOT](https://retinopathyBOT.anvil.app)**. This involve writing some Java Script with Python. Hopefully, the app is still up and running by the time you are reading this readme. This is because of the monthly payment to host the webapp on anvil.works
 
 
 ## Authors
