@@ -42,7 +42,7 @@ Install:
 ### The NLP was processed on the Google Colab while the Image classification was processed on my personal machine
 
 ### Resize All Images
-The images were of different sizes. I created Height and width columns for each images and resized the images 
+The images were of different sizes. I created Height and width columns for each images and resized the images to the average of 
 
 ### Checking Blurness of Images
 
