@@ -12,6 +12,7 @@ The objective of this project is to make information and diagnosis of Diabetic R
     * [Class Imbalance](#Class-Imbalance)
 3. [Model Architecture](#neural-network-architecture)
 5. [Web Deployment](#web-deployment)
+6. [Limitation](#app-limitation)
 8. [Authors](#Authors)
 
 ## Obtaining the Datasets
@@ -33,6 +34,7 @@ Install:
 ## Loading and Preprocessing
 
 ### The NLP Model was processed on the Google Colab while the Image classification was processed on my personal machine.
+A database was created to keep track all the questions that the Bot was not trainned to answer. The Model is updated everyday by retraining the model
 
 
 ### Resize All Images
@@ -48,6 +50,9 @@ After trying different method to train the classification model, ResNet50 was us
 ## Web Deployment
 The webapp is hosted on anvil.works **[retinopathyBOT](https://retinopathyBOT.anvil.app)**. This involve writing some Java Script with Python. Hopefully, the app is still up and running by the time you are reading this readme. This is because of the monthly payment to host the webapp on anvil.works
 
+## Limitiation
+* The speech recognition API currently works of firefox and chrome browser
+* Cloud deployment cost money, so the app might not be on for long time
 
 ## Authors
 
