@@ -1,0 +1,76 @@
+{"intents":[
+	{"tag":"describe",
+	"patterns": ["What is diabetic retinopathy", "tell me about diabetic retinopathy"],
+	"responses": ["Diabetic retinopathy is a complication of diabetes and a leading cause of blindness. It occurs when diabetes damages the tiny blood vessels inside the retina, the light-sensitive tissue at the back of the eye. A healthy retina is necessary for good vision. If you have diabetic retinopathy,  at first you may notice no changes to your vision. But over time, diabetic retinopathy can get worse and cause vision loss. Diabetic retinopathy usually affects both eyes.", "Diabetic retinopathy, a common complication of diabetes, affects the blood vessels in the retina (the thin light-sensitive membrane that covers the back of the eye). It is due to the retina not receiving enough oxygen. If untreated, it may lead to blindness. If diagnosed and treated promptly, blindness is usually preventable.", "In people with diabetes, high blood sugar damages the walls of the small blood vessels in the eye, altering their structure and function. These vessels may thicken, leak, develop clots, close off, or grow balloon-like defects called microaneurysms. Frequently, fluid accumulates in the part of the retina used in tasks such as reading; this condition is called macular edema. In advanced cases, the retina is robbed of its blood supply and grows new, but defective, vessels -- a process called neovascularization. These fragile vessels can bleed, creating vision-impairing hemorrhages, scar tissue, and separation of the retina from the back of the eye"],
+	"context_set": " "
+	},
+	{"tag":"causes",
+	"patterns": ["what causes the disease", "how can someone get diabetic retinopathy", "what is the cause", "what causes the infection", "who is at risk of the disease", "who is at risk of diabetic retinopathy"],
+	"responses": ["All people with diabetes—both type 1 and type 2—are at risk. That's why everyone with diabetes should get a comprehensive dilated eye exam at least once a year. Between 40 to 45 percent of Americans diagnosed with diabetes have some stage of diabetic retinopathy. If you have diabetic retinopathy, your doctor can recommend treatment to help prevent its progression. Also, during pregnancy, diabetic retinopathy may be a problem for women with diabetes. To protect vision, every pregnant woman with diabetes should have a comprehensive dilated eye exam as soon as possible. Your doctor may recommend additional exams during your pregnancy.", "In people with diabetes, high blood sugar damages the walls of the small blood vessels in the eye, altering their structure and function. These vessels may thicken, leak, develop clots, close off, or grow balloon-like defects called microaneurysms. Frequently, fluid accumulates in the part of the retina used in tasks such as reading; this condition is called macular edema. In advanced cases, the retina is robbed of its blood supply and grows new, but defective, vessels -- a process called neovascularization. These fragile vessels can bleed, creating vision-impairing hemorrhages, scar tissue, and separation of the retina from the back of the eye (retinal detachment). The new vessels can also block fluid flow within the eye, producing glaucoma."],
+	"context_set": " "
+	},
+	{"tag":"stages",
+	"patterns": ["What are the stages of diabetic retinopathy?", "what are the different types of the disease", "what are the different types of diabetic retinopathy", "different classification of the disease", "different classification of diabetic retinopathy", "how are the disease classified"],
+	"responses": ["Diabetic retinopathy has four stages: 1. Mild Nonproliferative Retinopathy. At this earliest stage, microaneurysms occur. They are small areas of balloon-like swelling in the retina's tiny blood vessels. 2. Moderate Nonproliferative Retinopathy. As the disease progresses, some blood vessels that nourish the retina are blocked. 3. Severe Nonproliferative Retinopathy. Many more blood vessels are blocked, depriving several areas of the retina with their blood supply. These areas of the retina send signals to the body to grow new blood vessels for nourishment. 4. Proliferative Retinopathy. At this advanced stage, the signals sent by the retina for nourishment trigger the growth of new blood vessels. This condition is called proliferative retinopathy. These new blood vessels are abnormal and fragile. They grow along the retina and along the surface of the clear, vitreous gel that fills the inside of the eye."],
+	"context_set": " "
+	},
+	{"tag":"symptoms",
+	"patterns": ["Does diabetic retinopathy have any symptoms?", "what are the symptoms of diabetic retinopathy", "tell me the signs of diabetic retinopathy", "what are the signs of the disease"],
+	"responses": ["Diabetic retinopathy often has no early warning signs. Don't wait for symptoms. Be sure to have a comprehensive dilated eye exam at least once a year"],
+	"context_set": " "
+	},
+	{"tag":"diagnosis",
+	"patterns": ["how can I get diagnosed?", "how can i get tested", "can you tell me about diagnosis", "how can the disease be diagnosed", "what are the diagnosis"],
+	"responses": ["It's important that anyone who has diabetes gets annual eye exams from an ophthalmologist so diabetic retinopathy can be detected early. When you visit an ophthalmologist, he or she will question you about your medical history and vision and will ask you to read an eye chart. The doctor will then directly examine your retina using an instrument called an ophthalmoscope.", "Some of the features of diabetic retinopathy cannot be seen during a basic eye exam and require special exams. To get a better look at the inside of the eye, your doctor might administer drops to dilate your pupils and will then view the retina with lenses and a special light called a slit lamp. A test called fluorescein angiography can reveal changes in the structure and function of the retinal blood vessels. For this test, the doctor injects a fluorescent yellow dye into one of your veins and then photographs your retina as the dye outlines the blood vessels."],
+	"context_set": " "
+	},
+	{"tag":"treatment",
+	"patterns": ["How is diabetic retinopathy treated?", "what are the treatment", "tell me about the treatment", "what are the solutions", "Can my condition be treated?", "What is the treatment for my condition?"],
+	"responses": ["Treatment for diabetic retinopathy should involve both a medical doctor and an ophthalmologist. Your medical doctor can help you better control blood sugar and can treat other complications of diabetes that may worsen diabetic retinopathy, such as impaired kidney or heart function. Your ophthalmologist can directly treat retinopathy with a laser or a surgical procedure called vitrectomy, to prevent further vascular changes and preserve vision. Don't be surprised if your doctor recommends one of these treatments before you notice any vision problems: Before problems start is usually the best time for treatment.", "During the first three stages of diabetic retinopathy, no treatment is needed, unless you have macular edema. To prevent progression of diabetic retinopathy, people with diabetes should control their levels of blood sugar, blood pressure, and blood cholesterol. Proliferative retinopathy is treated with laser surgery. This procedure is called scatter laser treatment. Scatter laser treatment helps to shrink the abnormal blood vessels.Scatter laser treatment works better before the fragile, new blood vessels have started to bleed. That is why it is important to have regular, comprehensive dilated eye exams. Even if bleeding has started, scatter laser treatment may still be possible, depending on the amount of bleeding. Both focal and scatter laser treatment are performed in your doctor's office or eye clinic. Before the surgery, your doctor will dilate your pupil and apply drops to numb the eye. The area behind your eye also may be numbed to prevent discomfort."],
+	"context_set": " "
+	},
+	{"tag":"research",
+	"patterns": ["what research is been done", "what works are going on about the disease", "is there any research going on?"],
+	"responses": ["The National Eye Institute (NEI) is conducting and supporting research that seeks better ways to detect, treat, and prevent vision loss in people with diabetes. This research is conducted through studies in the laboratory and with patients. For example, researchers are studying drugs that may stop the retina from sending signals to the body to grow new blood vessels. Someday, these drugs may help people control their diabetic retinopathy and reduce the need for laser surgery"],
+	"context_set": " "
+	},
+	{"tag":"informmation",
+	"patterns": ["Where can I get more information?", "i need more information", "where can i get help", "where can i get assistance"],
+	"responses": ["For more information about diabetic retinopathy or diabetes, you may wish to contact: 1. American Academy of Ophthalmology, Phone Number 415 561 8500 or visit their website www.aao.org 2. American Optometric Association, Phone number 314 991 4100 or visit the website www.aoa.org 3. American Diabetes Association, phone number 703 549 1500 or visit the website www.diabetes.org"],
+	"context_set": " "
+	},
+	{"tag": "prevention",
+	"patterns": ["what are the prevention", "is there any prevetion?", "what can i do to prevent the disease", "diabetic retinopathy prevention"],
+	"responses": ["For the majority of people with diabetes, DR is an inevitable consequence. However, patients with diabetes who successfully manage their blood sugar levels will help to prevent the onset of a severe form of DR. High blood pressure, or hypertension, is another contributing factor. Patients with diabetes need to control their blood pressure by: eating a healthy and balanced diet regularly exercising maintaining a healthy body weight smoking cessation strictly controlling alcohol intake taking any antihypertensive measures according to their doctor's instructions attending regular screenings. Early detection of symptoms increases the effectiveness of the treatment"],
+	"context_set": " "
+	},
+	{"tag": "name",
+	"patterns":["what is your name", "what should I call you", "whats your name?"],
+	"responses": ["You can call me Lambda. a.k.a eye doctor", "Call me Doctor Lambda!", "I'm Lambda a.k.a. eye doctor."],
+	"context_set": " "
+	},
+	{"tag": "function",
+	"patterns":["what do you do", "how can you help me", "whats your job?"],
+	"responses": ["My name is Lambda, a.k.a the doctor, as you might have known. I have been trained to talk about Diabetic Retinopathy. It will be great if you don't ask me question outside this because I might not be able to help you. If you have a scan of your eye, I will be able to diagnose you and probably make some medical recommendation for you. I can give you information, causes, stages, symptoms, diagnosis, treatments and research that has been done about diabetic retinopathy. Also if you need to more help"],
+	"context_set": " "
+	},
+	{"tag": "class",
+	"patterns":["what can you say about your cohort", "how is your instructor", "how about your class", "how is flatiron school"],
+	"responses": ["I have amazing instructors. Amber and Howard. I really appreciate the training and how they impacted my learning at the schhol. I have amazing cohort. Everybody is everybody's helper. David, Jack, Troy and carolann, you guys amazing friends. Flatiron school also provides an excellent learning environment"],
+	"context_set": " "
+	}
+	
+
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
