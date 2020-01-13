@@ -23,6 +23,7 @@ The objective of this project is to make information and diagnosis of Diabetic R
 
 ## Obtaining the Datasets
 
+Classification Images: The scanned images originates from [2015 Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
 The data originates from a [2015 Kaggle competition](https://www.kaggle.com/c/diabetic-retinopathy-detection). However, is an atypical Kaggle dataset. In most Kaggle competitions, the data has already been cleaned, giving the data scientist very little to preprocess. With this dataset, this isn't the case.
 
 The training data is comprised of 35,126 images, which are augmented during preprocessing.
