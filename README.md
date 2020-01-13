@@ -2,14 +2,7 @@
 
 ## Objective
 
-Diabetic retinopathy is the leading cause of blindness in the working-age population of the developed world. The condition is estimated to affect over 93 million people.
-
-The need for a comprehensive and automated method of diabetic retinopathy screening has long been recognized, and previous efforts have made good progress using image classification, pattern recognition, and machine learning. With photos of eyes as input, the goal of this capstone project is to create a chatbot which can detect and classify the disease and also give diabetic patients needed information about the disease, symptoms etc. The model can also assist doctors in diagnosing the disease.
-
-The motivations for this projects:
-
-* Image classification has been a personal interest for years, in addition to classification
-on a large scale data set.
+The objective of this project is to make information and diagnosis of Diabetic Retinopathy accessible to diabetes patients and also to assist ophthalmologist in diagnosing the disease. The project will reduce the window, between the testing and start of treatment, significantly
 
 * Time is lost between patients getting their eyes scanned (shown below), having their images analyzed by doctors, and scheduling a follow-up appointment. By processing images in real-time, EyeNetWebApp would allow people to seek & schedule treatment the same day.
 
