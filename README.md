@@ -2,14 +2,7 @@
 
 ## Objective
 
-Diabetic retinopathy is the leading cause of blindness in the working-age population of the developed world. The condition is estimated to affect over 93 million people.
-
-The need for a comprehensive and automated method of diabetic retinopathy screening has long been recognized, and previous efforts have made good progress using image classification, pattern recognition, and machine learning. With photos of eyes as input, the goal of this capstone project is to create a chatbot which can detect and classify the disease and also give diabetic patients needed information about the disease, symptoms etc. The model can also assist doctors in diagnosing the disease.
-
-The motivations for this projects:
-
-* Image classification has been a personal interest for years, in addition to classification
-on a large scale data set.
+The objective of this project is to make information and diagnosis of Diabetic Retinopathy accessible to diabetes patients and also to assist ophthalmologist in diagnosing the disease. The project will reduce the window, between the testing and start of treatment, significantly
 
 * Time is lost between patients getting their eyes scanned (shown below), having their images analyzed by doctors, and scheduling a follow-up appointment. By processing images in real-time, EyeNetWebApp would allow people to seek & schedule treatment the same day.
 
@@ -30,18 +23,19 @@ on a large scale data set.
 
 ## Obtaining the Datasets
 
-The data originates from a [2015 Kaggle competition](https://www.kaggle.com/c/diabetic-retinopathy-detection). However, is an atypical Kaggle dataset. In most Kaggle competitions, the data has already been cleaned, giving the data scientist very little to preprocess. With this dataset, this isn't the case.
+Classification Images: The scanned images originates from [Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
+Corpus Dataset: Created the corpus by web-scraping [MedicineNet](https://www.medicinenet.com).
 
-The training data is comprised of 35,126 images, which are augmented during preprocessing.
-
-### Prerequisites
+### Installation
 
 Install:
 
 * [Anaconda](https://www.continuum.io/downloads)
 * [Python (Minimum 3)](https://www.continuum.io/blog/developer-blog/python-3-support-anaconda)
-* [pandas](http://pandas.pydata.org/)
-* [Seaborn](https://seaborn.pydata.org/)
+* [Keras for Model deployment](https://pypi.org/project/Keras/)
+* [Seaborn for visualization](https://seaborn.pydata.org/)
+* [OpenCV for cleaning the images](https://pypi.org/project/opencv-python/)
+* [anvil for web deployment](https://anvil.works)
 
 ## Loading and Preprocessing
 
