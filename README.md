@@ -20,7 +20,7 @@ The objective of this project is to make information and diagnosis of Diabetic R
 * Classification Images: The scanned images originates from [Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
 * Corpus Dataset: Created the corpus by web-scraping [MedicineNet](https://www.medicinenet.com).
 
-### Installation
+## Installation
 
 Install:
 
