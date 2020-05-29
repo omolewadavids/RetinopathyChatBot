@@ -15,8 +15,6 @@ The objective of this project is to make information and diagnosis of Diabetic R
 6. [Limitation](#app-limitation)
 8. [Authors](#Authors)
 
-
- SSE=\sum_{i=1}^{n} \big( y_{i} - \widehat{y}_{i}  \big)^2 = \sum_{i=1}^{n}e_i^2.
 ## Obtaining the Datasets
 
 * Classification Images: The scanned images originates from [Kaggle competition](https://www.kaggle.com/c/aptos2019-blindness-detection).
