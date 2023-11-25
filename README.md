@@ -12,7 +12,7 @@ The objective of this project is to make information and diagnosis of Diabetic R
     * [Class Imbalance](#Class-Imbalance)
 3. [Model Architecture](#neural-network-architecture)
 5. [Web Deployment](#web-deployment)
-6. [Limitation](#app-limitation)
+6. [Limitation](#Limitation)
 8. [Authors](#Authors)
 
 ## Obtaining the Datasets
